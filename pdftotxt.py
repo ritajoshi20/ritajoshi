@@ -13,3 +13,5 @@ pdf_file.close()
 text_file = open('Resume.txt', 'w', encoding='utf-8')
 text_file.write(text)
 text_file.close()
+
+#comment added
